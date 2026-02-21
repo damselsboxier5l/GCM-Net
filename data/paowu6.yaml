@@ -1,0 +1,11 @@
+# FADE paired image+mask dataset for Ultralytics YOLO11/YOLO26 FADE models
+train: /data1/zyx/datasets/paowu/train.txt
+val: /data1/zyx/datasets/paowu/val.txt
+
+nc: 1
+names: ["paowu"]
+
+# Enable 6-channel input by concatenating image (3ch) and paired mask (3ch)
+channels: 6
+paired_mask: true
+mask_dir: mask
