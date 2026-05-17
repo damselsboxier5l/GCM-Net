@@ -1,6 +1,6 @@
-# GCM-Net: End-to-End Falling Object Detection via Motion-Aware Global Context Modeling
+# GCM-Net: End-to-End Moving Small Object Detection via Motion-Aware Global Context Modeling
 
-Official implementation of **GCM-Net**, a high-efficiency one-stage detector specifically designed for Falling Object Detection around Buildings (FODB).
+Official implementation of **GCM-Net**, a high-efficiency one-stage detector specifically designed for Moving Small Object Detection.
 
 ## 🚀 Highlights
 
